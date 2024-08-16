@@ -22,6 +22,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+.history/
 lib/
 lib64/
 parts/
@@ -31,6 +32,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.txt
 MANIFEST
 
 # PyInstaller
@@ -141,3 +143,7 @@ env/
 
 # Token cache location
 __cache__/
+.gitignore
+pyproject.toml
+pytube.code-workspace
+.gitignore
